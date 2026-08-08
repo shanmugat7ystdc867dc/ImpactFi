@@ -8,3 +8,13 @@ Financial Impact Analysis Application
 
 This mock UX demonstrates the application's primary screens,
 navigation flow, and major user journeys.
+## User Flow
+
+Splash Screen → Login → Dashboard
+
+New users can go from Login → Create Account.
+
+From the Dashboard, users can navigate to:
+- Income Tracking
+- Expense Tracking
+- Reports
